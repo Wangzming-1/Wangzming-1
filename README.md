@@ -1,1 +1,10 @@
-test
+开源的小游戏
+=================================================
+开源声明
+nw.js
+https://nwjs.io/
+nsis
+https://nsis.sourceforge.io/
+Turbowarp
+https://desktop.turbowarp.org/
+=================================================
